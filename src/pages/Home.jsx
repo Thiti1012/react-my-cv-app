@@ -20,22 +20,30 @@ export default function Home() {
       <div className="flex justify-between items-center pl-30 pr-30 pt-20 pb-40">
         {/* ส่วนของเนื้อหาด้านซ้าย */}
         <div className="flex flex-col gap-5">
-            <span className="text-white text-6xl font-bold">Full Stack Web </span>
-            <span className="text-white text-6xl font-bold">Developer ! </span>
-            <span className="text-white text-2xl">Hi, I'm Thitipong SAU. A passwionate Full Stack Web Developer.</span>
-            <span className="text-white text-2xl">Web Developer based in Thailand.</span>
-            <div className="flex gap-5">
-                <FaLinkedin className="text-white text-6xl border-2 border-black rounded-full" />
-                <FaGithub className="text-white text-6xl border-2 border-black  rounded-full" />
-            </div>
+          <span className="text-white text-6xl font-bold">Full Stack Web </span>
+          <span className="text-white text-6xl font-bold">Developer ! </span>
+          <span className="text-white text-2xl">
+            Hi, I'm Thitipong SAU. A passwionate Full Stack Web Developer.
+          </span>
+          <span className="text-white text-2xl">
+            Web Developer based in Thailand.
+          </span>
+          <div className="flex gap-5">
+            <FaLinkedin className="text-white text-6xl border-2 border-black rounded-full" />
+            <FaGithub className="text-white text-6xl border-2 border-black  rounded-full" />
+          </div>
         </div>
         {/* ส่วนของเนื้อหาด้านขวา */}
         <div>
-            <img src="https://images.pexels.com/photos/16476075/pexels-photo-16476075.jpeg" alt="" className="w-[450px] h-[450px] object-cover rounded-full" />
+          <img
+            src="https://images.pexels.com/photos/16476075/pexels-photo-16476075.jpeg"
+            alt=""
+            className="w-[450px] h-[450px] h-450px object-cover rounded-full"
+          />
         </div>
       </div>
       {/*  ส่วนของ Tech Stack */}
-      <div className="flex justify-center justify-between ">
+      <div className="flex justify-center  ">
         <span className="text-white text-2xl font-semibold">My Tech Stack</span>
       </div>
       {/* ส่วนของ รูปภาพ Tech Stack  */}
