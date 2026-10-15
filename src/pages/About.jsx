@@ -39,7 +39,7 @@ export default function About() {
       </div>
       {/* ส่วนของปุ่มด้านล่าง */}
       <div className="flex justify-center pt-20 ">
-            <button className="border border-white text-white px-8 py-5 rounded-full text-lg font-medium">
+            <button className="border border-white text-white px-10 py-5 rounded-full text-3xl font-medium">
               Download CV
             </button>
           </div>
