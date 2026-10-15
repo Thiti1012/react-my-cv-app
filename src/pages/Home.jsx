@@ -6,7 +6,7 @@ import css from "./../assets/css.png";
 import figma from "./../assets/figma.png";
 import html from "./../assets/html.png";
 import java from "./../assets/java.png";
-import firebase from "./../assets/Firebase.png";
+import Firebase from "./../assets/Firebase.png";
 import react from "./../assets/react.png";
 import node from "./../assets/node.png";
 import spring from "./../assets/spring.png";
