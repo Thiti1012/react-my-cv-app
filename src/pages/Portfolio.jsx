@@ -24,7 +24,7 @@ export default function Portfolio() {
           <div className="flex flex-col justify-center max-w-xl pt-70">
             <div className="flex flex-col gap-6">
               <span className="text-white text-2xl font-bold text-center">
-                Bikes and Beards
+                Learnify
               </span>
               <span className="text-gray-400 text-xl leading-relaxed">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -34,7 +34,8 @@ export default function Portfolio() {
                 excepturi repellat libero in enim praesentium! Ex dicta est
                 suscipit ipsam voluptate tempora voluptatum quam distinctio
                 minus saepe nobis nulla amet fugiat sit autem deserunt
-                asperiores vitae ea, libero sed! Libero fugit non.
+                asperiores vitae ea, libero sed! Libero fugit non, placeat
+                nulla.
               </span>
               <div className="flex justify-center gap-20">
                 <button className="border border-white text-white px-10 py-2 rounded-full text-xl font-medium">
@@ -88,7 +89,7 @@ export default function Portfolio() {
         <div className="flex flex-col justify-center max-w-xl">
           <div className="flex flex-col gap-6">
             <span className="text-white text-2xl font-bold text-center">
-              Learnify
+              Bikes and Beards
             </span>
             <span className="text-gray-400 text-xl leading-relaxed">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
@@ -98,7 +99,7 @@ export default function Portfolio() {
               repellat libero in enim praesentium! Ex dicta est suscipit ipsam
               voluptate tempora voluptatum quam distinctio minus saepe nobis
               nulla amet fugiat sit autem deserunt asperiores vitae ea, libero
-              sed! Libero fugit non, placeat nulla.
+              sed! Libero fugit non.
             </span>
             <div className="flex justify-center gap-20">
               <button className="border border-white text-white px-10 py-2 rounded-full text-xl font-medium">
